@@ -1,0 +1,15 @@
+
+public class Greeting {
+
+	public static void main(String[] args) {
+		
+		String name = "Kim";
+		
+		System.out.println(	"Hello " + name	);
+		System.out.println(	"Good Morning " + name	);
+		System.out.println(	"Good Afternoon " + name	);
+		System.out.println( "Goodbye " + name	);
+
+	}
+
+}
